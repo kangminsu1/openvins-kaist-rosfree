@@ -1,0 +1,12 @@
+/build/
+*.pcd
+*.ply
+*.csv
+*.bag
+*.tar
+*.tar.gz
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
